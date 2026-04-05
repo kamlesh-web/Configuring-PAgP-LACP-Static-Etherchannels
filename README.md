@@ -106,12 +106,10 @@
     
     1      Po1(RU)           LACP   Fa0/1(P) Fa0/2(P) Fa0/3(P) Fa0/4(P) Fa0/5(P) Fa0/6(P) Fa0/7(P) Fa0/8(P) 
     								Fa0/9(P) Fa0/10(P) Fa0/11(P) Fa0/12(P) Fa0/13(P) Fa0/14(P) Fa0/15(P) Fa0/16(P) 
-    								
-    								
-    ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    														
+---
     
-    
-    PAgP- Port Aggregation Protocol configurations
+## PAgP- Port Aggregation Protocol configurations
     
     Switch>
     Switch>enable
@@ -207,9 +205,9 @@
     [OK]
     ASW2(config)#
     
-    ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
     
-    Static EtherChannel configuration
+## Static EtherChannel configuration
     
     Switch>
     Switch>enable
