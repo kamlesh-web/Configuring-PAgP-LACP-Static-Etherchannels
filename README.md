@@ -1,4 +1,8 @@
-    LACP-Link Aggregation Protocol configurations
+## Overview
+<img width="1366" height="768" alt="Configuring Etherchannels PAgP,LACP, Static Overview" src="https://github.com/user-attachments/assets/33787a40-31d6-4462-8759-f396c6c28640" />
+
+---
+## LACP-Link Aggregation Protocol configurations
     
     Switch>
     Switch>enable
@@ -302,3 +306,5 @@
     Building configuration...
     [OK]
     ASW3(config)#
+
+    
